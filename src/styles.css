@@ -47,3 +47,9 @@ button {
   padding: 5px;
   cursor: pointer;
 }
+body {
+  background-image: url("/home/ieli15/Development/code/phase-2/project2/src/images/joe-woods-4Zaq5xY5M_c-unsplash.jpg"); /* Image in public folder */
+  background-size: cover; 
+  background-position: center;
+  background-attachment: fixed; 
+}
